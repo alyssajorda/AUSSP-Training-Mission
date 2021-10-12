@@ -172,4 +172,4 @@ while True:
     # display pressure data
     print("Pressure:    %.2f hPa" % (pressure / 100.0))
 
-    time.sleep(0.25)
+    time.sleep(0.125)
